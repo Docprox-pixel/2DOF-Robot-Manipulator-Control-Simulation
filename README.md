@@ -7,7 +7,6 @@ This project compares two simulation approaches for a robotic manipulator:
 
 The goal is to evaluate trajectory tracking performance and control robustness under external disturbances.
 
----
 
 ## Robot Structure
 
@@ -17,7 +16,6 @@ Joints:
 - Joint 1 (Revolute)
 - Joint 2 (Revolute)
 
----
 
 ## Control Strategy
 
@@ -26,7 +24,6 @@ Joints:
 - Gravity compensation
 - External disturbance rejection
 
----
 
 ## Results
 
@@ -37,7 +34,6 @@ Joint 2 RMSE: 0.119 rad
 
 Both simulation approaches demonstrate stable tracking performance.
 
----
 
 ## Workflow
 
