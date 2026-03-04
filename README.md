@@ -77,6 +77,3 @@ GrabCAD CAD Model
 → MATLAB Robotics Toolbox  
 → Simscape Multibody Simulation  
 → Control System Validation
-
-
-# Repository Structure
